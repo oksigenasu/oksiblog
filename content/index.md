@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my mind
+tags:
+  - notags
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Gonna dump a lot texts here.
