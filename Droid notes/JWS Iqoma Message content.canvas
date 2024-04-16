@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"9cff97d8655c9de2","type":"text","text":"JWS Iqoma","x":-88,"y":-240,"width":168,"height":57},
+		{"id":"675acbcc96ee9097","type":"text","text":"Fitur","x":160,"y":-320,"width":100,"height":50,"color":"2"},
+		{"id":"ac85c6c04893bff8","type":"text","text":"Kalender hijriyah","x":377,"y":-400,"width":223,"height":60,"color":"5"},
+		{"id":"03536496d7b618dc","type":"text","text":"Adzan waktu sholat","x":377,"y":-730,"width":223,"height":60,"color":"4"},
+		{"id":"731e2f567e192b09","type":"text","text":"pahala menjawab adzan","x":710,"y":-880,"width":250,"height":60},
+		{"id":"24cb3615845fe1c6","type":"text","text":"doa menjawab adzan","x":710,"y":-790,"width":250,"height":60},
+		{"id":"21a233d28269a439","type":"text","text":"sejarah adzan","x":710,"y":-700,"width":250,"height":60},
+		{"id":"e5e402e813c127c4","type":"text","text":"adzan mekkah & adzan bilal","x":710,"y":-600,"width":250,"height":60},
+		{"id":"335487220c6f0b19","type":"text","text":"kalender hijriyah rukyat dan tabular","x":710,"y":-400,"width":250,"height":80},
+		{"id":"48c908fe5cba4574","type":"text","text":"kalender masehi dan hijriyah","x":710,"y":-500,"width":250,"height":60},
+		{"id":"f114dc8640cac616","type":"text","text":"nama nama bulan hijriyah","x":710,"y":-160,"width":250,"height":60},
+		{"id":"f992f3614428e940","type":"text","text":"Penentuan awal bulan hijriyah","x":710,"y":-260,"width":250,"height":60},
+		{"id":"bef8d72809f5ab77","type":"text","text":"Amalan sunnah","x":377,"y":260,"width":250,"height":60,"color":"2"},
+		{"id":"3a094c9d9033f6cb","type":"text","text":"Jadwal sholat","x":377,"y":160,"width":250,"height":60,"color":"3"},
+		{"id":"970b5dcb16ae9282","type":"text","text":"sholawat sebelum adzan","x":377,"y":60,"width":250,"height":60,"color":"6"},
+		{"id":"3d79dda1c823e65a","x":710,"y":60,"width":250,"height":60,"type":"text","text":"pelantun tahrim"},
+		{"id":"92bdfab02dba907a","x":710,"y":-60,"width":250,"height":60,"type":"text","text":"tanggal2 puasa sunnah"}
+	],
+	"edges":[
+		{"id":"cdf4624ae8057d9a","fromNode":"9cff97d8655c9de2","fromSide":"right","toNode":"675acbcc96ee9097","toSide":"left"},
+		{"id":"e6760e9dfd3cb75c","fromNode":"675acbcc96ee9097","fromSide":"right","toNode":"03536496d7b618dc","toSide":"left"},
+		{"id":"d8519482a33c2625","fromNode":"675acbcc96ee9097","fromSide":"right","toNode":"ac85c6c04893bff8","toSide":"left"},
+		{"id":"2d8cb59c16f6eb14","fromNode":"675acbcc96ee9097","fromSide":"right","toNode":"970b5dcb16ae9282","toSide":"left"},
+		{"id":"a0e8ac3d2251a1fd","fromNode":"675acbcc96ee9097","fromSide":"right","toNode":"3a094c9d9033f6cb","toSide":"left"},
+		{"id":"ac76dd39681c5dca","fromNode":"675acbcc96ee9097","fromSide":"right","toNode":"bef8d72809f5ab77","toSide":"left"},
+		{"id":"1df3ab595c82e635","fromNode":"03536496d7b618dc","fromSide":"right","toNode":"731e2f567e192b09","toSide":"left"},
+		{"id":"ae940a6bc5a55af0","fromNode":"03536496d7b618dc","fromSide":"right","toNode":"24cb3615845fe1c6","toSide":"left"},
+		{"id":"6b58b7687bce3334","fromNode":"03536496d7b618dc","fromSide":"right","toNode":"21a233d28269a439","toSide":"left"},
+		{"id":"4d22fb8a5af652c3","fromNode":"03536496d7b618dc","fromSide":"right","toNode":"e5e402e813c127c4","toSide":"left"},
+		{"id":"ea79bde6e245357a","fromNode":"ac85c6c04893bff8","fromSide":"right","toNode":"48c908fe5cba4574","toSide":"left"},
+		{"id":"869112022663e700","fromNode":"ac85c6c04893bff8","fromSide":"right","toNode":"335487220c6f0b19","toSide":"left"},
+		{"id":"fb660c6c0e5f6e65","fromNode":"ac85c6c04893bff8","fromSide":"right","toNode":"f992f3614428e940","toSide":"left"},
+		{"id":"39a37467f5eefb2b","fromNode":"ac85c6c04893bff8","fromSide":"right","toNode":"f114dc8640cac616","toSide":"left"},
+		{"id":"94221c7ce4e09929","fromNode":"970b5dcb16ae9282","fromSide":"right","toNode":"3d79dda1c823e65a","toSide":"left"},
+		{"id":"500f6b251c3b9dc7","fromNode":"ac85c6c04893bff8","fromSide":"right","toNode":"92bdfab02dba907a","toSide":"left"}
+	]
+}
