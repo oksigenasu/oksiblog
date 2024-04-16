@@ -1,3 +1,0 @@
-https://www.facebook.com/marketplace/item/2190117297848180/?mibextid=dXMIcH
-
-Dijual Tanah pekarangan nyaman untuk rumah tinggal dan prospek untuk kost Lokasi: Kradenan, Banyuraden, Gamping, Sleman Hubungi : 081326992166 (pemilik) Hanya 300 m dari Ringroad Barat Akses Jalan Cor beton 4 meter mobil masuk lancar Spesifikasi: Luas Tanah 118 m2 Lebar Depan 6 m Lebar Belakang 20 m Legalitas SHM Pekarangan Area Terdekat: - Kampus STMIK Ahmad Yani - Kampus UNISA - Kodim 403 - Perempatan Demak Ijo Harga 2,1 Juta/m2 Nego

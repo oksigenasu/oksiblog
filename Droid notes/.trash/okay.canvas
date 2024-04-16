@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"17caf2009ba95694","x":-17,"y":420,"width":250,"height":60,"color":"1","type":"text","text":"what is this?"},
-		{"id":"4c43a3dad55958c1","x":-4,"y":560,"width":225,"height":300,"type":"file","file":"Posts/Repair SJCam Funcam/Repair Sjcam funcam toy.md"}
-	],
-	"edges":[
-		{"id":"89ea68473ccf6530","fromNode":"17caf2009ba95694","fromSide":"bottom","toNode":"4c43a3dad55958c1","toSide":"top"}
-	]
-}

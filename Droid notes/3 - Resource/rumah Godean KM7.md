@@ -1,3 +1,0 @@
-https://www.facebook.com/marketplace/item/751921019657393/?mibextid=dXMIcH
-
-MURAH MURAH MURAH Dijual Rumah Baru siap huni di Jalan Godean km 7 SHM PBG Alamat : Jalan Godean km 7, Sidomoyo, Godean, sleman, Yogyakarta Harga : 390 juta nego Type 42 m2 Luas tanah 94 m2 2 Kamar Tidur 1 Kamar Mandi Carport Luas Dapur R. Tamu Carport luas lantai granit listrik 1300 kwh Akses jalan lebar simpangan sampe lokasi Selling Point: Lingkungan Cluster area Pendatang & Ramai Penduduk⁣ Belakang Kampus UNISA Ringroad Barat Dekat Pasar Cebongan, Pusat Kuliner Dekat Sekolah, Area Komersil, 10 Menit ke RSA UGM 5 menit ke RSU Queen Latifa Yogyakarta 15 Menit Ke Kampus UTY 15 Menit Ke Jombor Info dan Survey: Anang WA 081904173139
