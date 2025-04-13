@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Welcome to my Mind",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "oksigenasu.github.io/oksiblog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -27,16 +27,29 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
+        
+        // lightMode: {
+        //   light: "#faf8f8",
+        //   lightgray: "#e5e5e5",
+        //   gray: "#b8b8b8",
+        //   darkgray: "#4e4e4e",
+        //   dark: "#2b2b2b",
+        //   secondary: "#284b63",
+        //   tertiary: "#84a59d",
+        //   highlight: "rgba(143, 159, 169, 0.15)",
+        // },
+        
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#153B40", //page background
+          lightgray: "#055902", //borders
+          gray: "#034001", //graph links, heavier borders
+          darkgray: "#F28B66", //body text
+          dark: "#BF1304", //header text and icons
+          secondary: "#ffc75f", //link colour, current graph node
+          tertiary: "#f9f871", //hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", //internal link background, highlighted text, highlighted lines of codes
         },
+
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
@@ -57,6 +70,7 @@ const config: QuartzConfig = {
         priority: ["frontmatter", "filesystem"],
       }),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -64,7 +78,6 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
