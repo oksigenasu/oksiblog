@@ -70,6 +70,7 @@ const config: QuartzConfig = {
         priority: ["frontmatter", "filesystem"],
       }),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -77,7 +78,6 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

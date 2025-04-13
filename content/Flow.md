@@ -1,4 +1,6 @@
 # happiness revisited
+
+
 > [!note] 
 > while happiness itself is sought for it's own sake, every other goal--money fame wealth power etc-- is valued only because we expect that it will make us happy.
 
