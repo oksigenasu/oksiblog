@@ -1,7 +1,11 @@
 ---
-title: Welcome to my mind
+title: picking up pieces
 tags:
-  - notags
+  - home
 ---
 
-Gonna dump a lot texts here.
+Gonna dump a lot texts here about:
+
+- [[Electronic Repair]]
+- [[Worldview]]
+- [[Faith]]
