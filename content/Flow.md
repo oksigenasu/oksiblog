@@ -1,6 +1,9 @@
-# happiness revisited
-
-
+---
+title: Happiness revisited
+draft: false
+tags:
+  - mind
+---
 > [!note] 
 > while happiness itself is sought for it's own sake, every other goal--money fame wealth power etc-- is valued only because we expect that it will make us happy.
 
@@ -11,4 +14,3 @@
 - optimal experience depends on the ability to control what happens in consciousness moment on moment
 - ***Flow*** will examine the process of achieving happiness by controlling one's inner life.
 - last step will be to describe how people manage to join all experience into a meaningful pattern. when it is accomplished, and people feel in control of their life and feels that it makes sense, there is nothing left to be desired.
-- 
